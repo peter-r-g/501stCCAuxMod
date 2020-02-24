@@ -10,7 +10,7 @@ class CfgPatches
 
         requiredVersion = 0.1;
         requiredAddons[] = {
-            ""
+            "JLTS_R_clones_armor"
         };
 
         units[]={};
