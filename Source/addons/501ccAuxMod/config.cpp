@@ -15,9 +15,9 @@ class CfgPatches
 
         units[]={};
         weapons[]={};
-    }
+    };
 };
 class cfgMod
 {
     author = "gunman435";
-}
+};
