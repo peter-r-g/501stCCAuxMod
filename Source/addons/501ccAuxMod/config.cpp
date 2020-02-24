@@ -9,9 +9,7 @@ class CfgPatches
         author = "gunman435";
 
         requiredVersion = 0.1;
-        requiredAddons[] = {
-            "JLTS_R_clones_armor"
-        };
+        requiredAddons[] = {};
 
         units[]={};
         weapons[]={};
