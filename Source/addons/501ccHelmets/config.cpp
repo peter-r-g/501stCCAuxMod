@@ -64,6 +64,16 @@ class CfgWeapons
 		};
 	};
 
+    class 501CC_arc_helmet_polar: 501CC_infantry_helmet_jlts_recruit
+    {
+        scope=2;
+		displayName="[501st] ARC HELM ('Polar')";
+		hiddenSelectionsTextures[]=
+		{
+			"\501ccHelmets\data\polar_helmet.paa"
+		};
+    };
+};
 class cfgMods
 {
     author = "gunman435";
