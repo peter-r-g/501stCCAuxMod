@@ -70,7 +70,7 @@ class CfgWeapons
 		displayName="[501st] ARC HELM ('Polar')";
 		hiddenSelectionsTextures[]=
 		{
-			"\501ccHelmets\data\polar_helmet.paa"
+			"\501ccHelmets\data\arc_helmet_polar.paa"
 		};
     };
 };
