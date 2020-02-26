@@ -12,6 +12,7 @@ class CfgPatches
         weapons[]={};
     };
 };
+
 class CfgWeapons
 {
     class itemCore;
@@ -74,7 +75,8 @@ class CfgWeapons
 		};
     };
 };
+
 class cfgMods
 {
-    author = "gunman435";
+    author = "[TW] gunman435";
 };
