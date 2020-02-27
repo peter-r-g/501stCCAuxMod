@@ -25,7 +25,7 @@ class CfgWeapons
 		weaponPoolAvailable=1;
 		ace_hearing_protection=0.85000002;
 		ace_hearing_lowerVolume=0;
-		displayName="[501st] INF HELM 01 (Base)";
+		displayName="[501st CC] INF HELM 01 (Base)";
 		picture="\MRC\JLTS\characters\CloneArmor\data\ui\CloneHelmetP2_ui_ca.paa";
 		model="\MRC\JLTS\characters\CloneArmor\CloneHelmetP2.p3d";
 		hiddenSelections[]=
@@ -68,7 +68,8 @@ class CfgWeapons
     class 501CC_arc_helmet_polar: 501CC_infantry_helmet_jlts_recruit
     {
         scope=2;
-		displayName="[501st] ARC HELM ('Polar')";
+		author="gunman435 & RD501";
+		displayName="[501st CC] ARC HELM ('Polar')";
 		hiddenSelectionsTextures[]=
 		{
 			"\501ccHelmets\data\arc_helmet_polar.paa"
