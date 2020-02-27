@@ -1,8 +1,8 @@
 class CfgPatches
 {
-    class 501ccAux
+    class 501ccHelmets
     {
-        name = "501st Carnivore Company Helmets";
+        name = "501st Carnivore Company Aux - Helmets";
         author = "gunman435";
 
         requiredVersion = 0.1;
