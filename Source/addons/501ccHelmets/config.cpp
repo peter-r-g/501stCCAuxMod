@@ -75,6 +75,17 @@ class CfgWeapons
 			"\501ccHelmets\data\arc_helmet_polar.paa"
 		};
     };
+
+	class 501CC_inf_helmet_gunman: 501CC_infantry_helmet_jlts_recruit
+	{
+		scope=2;
+		author="gunman435 & RD501";
+		displayName="[501st CC] INF HELM ('Gunman')";
+		hiddenSelectionsTextures[]=
+		{
+			"\501ccHelmets\data\inf_helmet_gunman.paa"
+		};
+	};
 };
 
 class cfgMods
