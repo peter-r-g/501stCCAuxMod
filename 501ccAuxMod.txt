@@ -1,0 +1,10 @@
+Authority:  501ccAuxMod
+Creation:   2020-02-29 11:29:51 AM (by PETERSPC\simon)
+
+== PRIVATE KEY ==
+File: E:\GitHub\501stcc\501stCCAuxMod\501ccAuxMod.biprivatekey
+MD5: CDE7E1E2067943FB172E8AA77962B601
+== PUBLIC KEY ==
+File: E:\GitHub\501stcc\501stCCAuxMod\501ccAuxMod.bikey
+MD5: A56038FA88FA3B8CD5DD10532ACDD383
+
