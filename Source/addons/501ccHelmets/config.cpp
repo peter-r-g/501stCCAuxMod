@@ -65,6 +65,17 @@ class CfgWeapons
 		};
 	};
 
+	class 501CC_arc_helmet_joe: 501CC_infantry_helmet_jlts_recruit
+    {
+        scope=2;
+		author="gunman435 & RD501";
+		displayName="[501st CC] ARC HELM ('Joe')";
+		hiddenSelectionsTextures[]=
+		{
+			"\501ccHelmets\data\arc_helmet_joe.paa"
+		};
+    };
+
     class 501CC_arc_helmet_polar: 501CC_infantry_helmet_jlts_recruit
     {
         scope=2;
