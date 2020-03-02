@@ -87,6 +87,17 @@ class CfgWeapons
 		};
     };
 
+	class 501CC_inf_helmet_carver: 501CC_infantry_helmet_jlts_recruit
+	{
+		scope=2;
+		author="gunman435 & RD501";
+		displayName="[501st CC] INF HELM ('Carver')";
+		hiddenSelectionsTextures[]=
+		{
+			"\501ccHelmets\data\inf_helmet_carver.paa"
+		};
+	};
+
 	class 501CC_inf_helmet_gunman: 501CC_infantry_helmet_jlts_recruit
 	{
 		scope=2;
