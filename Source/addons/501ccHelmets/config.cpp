@@ -25,7 +25,7 @@ class CfgWeapons
 		weaponPoolAvailable=1;
 		ace_hearing_protection=0.85000002;
 		ace_hearing_lowerVolume=0;
-		displayName="[501st CC] INF HELM 01 (Base)";
+		displayName="[501st CC] INF HELM Base";
 		picture="\MRC\JLTS\characters\CloneArmor\data\ui\CloneHelmetP2_ui_ca.paa";
 		model="\MRC\JLTS\characters\CloneArmor\CloneHelmetP2.p3d";
 		hiddenSelections[]=
